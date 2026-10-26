@@ -6,4 +6,4 @@ I audit RL environments and agent benchmarks for reward hacks and grader bugs: p
 - [reward-hack-patterns](https://github.com/holdout-cc/reward-hack-patterns): common grader failure patterns, each with a runnable example and a fix
 - [grader-probe](https://github.com/holdout-cc/grader-probe): a small tool that checks reward functions for false credit and false rejection
 
-Contact: hello@holdout.cc
+Contact: jimmy@holdout.cc
